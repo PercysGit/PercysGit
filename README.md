@@ -3,7 +3,7 @@
 I am studying Informatics at the University of Hamburg (UHH). Feel free to ask me if I would like to work on your project!:)
 
 - 🌱 I’m currently learning Python and Javascript!
-- - 🔭 I’m currently working on completing Advent of Code :)
+- 🔭 I’m currently working on completing Advent of Code 2025 with friends :)
 <!--
 **PercysGit/PercysGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
