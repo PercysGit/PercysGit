@@ -2,14 +2,14 @@
 
 I am studying Informatics at the University of Hamburg (UHH). Feel free to ask me if I would like to work on your project!:)
 
-- 🌱 I’m currently learning Python and Javascript!
+- 🌱 I’m currently learning new skills in Python and Javascript (beginner -> advanced)!
 - 🔭 I’m currently working on completing Advent of Code 2025 with friends :)
 
 ### Hallo, 👋
 
 I studiere Informatik an der Universität Hamburg (UHH). Falls du ein Projekt hast und du denkst, dass ich dir helfen könnte: Frag mich gerne ob ich mitmachen möchte!:)
 
-- 🌱 Ich lerne gerade mit Python and Javascript zu arbeiten!
+- 🌱 Ich lerne gerade besser mit Python and Javascript zu arbeiten(beginner -> advanced)!
 - 🔭 Momentan arbeite ich daran Advent of Code 2025 mit Freunden zu vervollständingen :)
 - 
 <!--
