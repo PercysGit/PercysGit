@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I am studying Informatics at the University of Hamburg (UHH). Feel free to ask me if I want to work with you on beginner projects!
 <!--
 **PercysGit/PercysGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
