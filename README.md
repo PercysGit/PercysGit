@@ -7,7 +7,7 @@ I am studying Informatics at the University of Hamburg (UHH). Feel free to ask m
 
 ### Hallo, 👋
 
-I studiere Informatik an der Universität Hamburg (UHH). Falls du ein Projekt hast und du denkst, dass ich dir helfen könnte frag mich gerne!:)
+I studiere Informatik an der Universität Hamburg (UHH). Falls du ein Projekt hast und du denkst, dass ich dir helfen könnte: Frag mich gerne ob ich mitmachen möchte!:)
 
 - 🌱 Ich lerne gerade mit Python and Javascript zu arbeiten!
 - 🔭 Momentan arbeite ich daran Advent of Code 2025 mit Freunden zu vervollständingen :)
