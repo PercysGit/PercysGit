@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-I am studying Informatics at the University of Hamburg (UHH). Feel free to ask me if I want to work with you on beginner projects!
+I am studying Informatics at the University of Hamburg (UHH). Feel free to ask me if I would like to work on your project!:)
+
+- 🌱 I’m currently learning Python and Javascript!
+- - 🔭 I’m currently working on completing Advent of Code :)
 <!--
 **PercysGit/PercysGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
